@@ -384,6 +384,7 @@ p {
   height: 25px;
   width: 25px;
   background-color: unset;
+  transform: rotate(180deg)
 }
 .arrow-sub {
   background-color: unset;
